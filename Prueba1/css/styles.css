@@ -1,0 +1,30 @@
+body {
+    background-color: #85b4dd; /* Color azul claro de fondo */
+    font-size: 18px; /* Aumenta el tamaño global de las letras */
+}
+
+text-center p-3{
+    background-color: #85b4dd;
+}
+h1 {
+    font-weight: bold;
+}
+h5 {
+    font-size: 24px; /* Tamaño para los títulos más pequeños, como el de la tarjeta */
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra ligera para las tarjetas */
+}
+
+.card-header {
+    background-color: #007bff; /* Azul Bootstrap */
+}
+
+footer {
+    background-color: #f8f9fa;
+}
+
+.bg-custom-celeste {
+    background-color: #add8e6; /* Celeste claro */
+}
